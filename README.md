@@ -20,10 +20,13 @@ Sou Técnico em Desenvolvimento de Sistemas e Assistente Técnico de Eletrônica
 
 ### 📊 Minhas Estatísticas
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-  
-  ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=dark)
+
 </div>
+
 
 ---
 
