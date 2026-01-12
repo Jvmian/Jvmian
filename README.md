@@ -14,15 +14,14 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**, gosto de cone
 ---
 
 ### 🧠 Sobre Mim
-Aqui você pode colocar uma breve descrição sobre você, seus interesses, objetivos, experiências, etc. Exemplo:
-> Sou estudante de Engenharia Mecatrônica e desenvolvedor apaixonado por integrar hardware com software para criar soluções inteligentes.
+Sou Técnico em Desenvolvimento de Sistemas e Assistente Técnico de Eletrônica, prestes a ingressar na faculdade. Tenho paixão por integrar conhecimento de software e hardware para desenvolver soluções inovadoras.
 
 ---
 
 ### 📊 Minhas Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=tokyonight" alt="GitHub Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=dark" alt="GitHub Top Languages"/>
 </div>
 
 ---
