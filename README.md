@@ -19,8 +19,13 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
   "linguagens": ["C++", "Python", "Ladder"],
   "hobbies": ["Robótica", "Impressão 3D", "Café"]
 }
-📊 Minhas Estatísticas
-<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO%26layout%3Dcompact%26theme%3Dtokyonight"/> </div>
+### 📊 Minhas Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=tokyonight"/>
+</div>
 
-🐍 Contribuições (Snake Game)
-<div align="center"> <img src="https://www.google.com/search?q=https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake" /> </div>
+### 🐍 Contribuições (Snake Game)
+<div align="center">
+  <img src="https://github.com/Jvmian/Jvmian/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
