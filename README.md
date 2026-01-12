@@ -12,7 +12,13 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
 <br/>
 
 ### 🧠 Sobre Mim
-<br/>
+```json
+{
+  "area": "Engenharia Mecatrônica",
+  "foco_atual": ["Sistemas Embarcados", "Automação", "IoT"],
+  "linguagens": ["C++", "Python", "Ladder"],
+  "hobbies": ["Robótica", "Impressão 3D", "Café"]
+}
 
 ### 📊 Minhas Estatísticas
 <div align="center">
