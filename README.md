@@ -14,13 +14,8 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
 <br/>
 
 ### 🧠 Sobre Mim
-```json
-{
-  "area": "Engenharia Mecatrônica",
-  "foco_atual": ["Sistemas Embarcados", "Automação", "IoT"],
-  "linguagens": ["C++", "Python", "Ladder"],
-  "hobbies": ["Robótica", "Impressão 3D", "Café"]
-}
+
+
 ### 📊 Minhas Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
