@@ -7,7 +7,7 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
 ### 🔧 Tech Stack & Ferramentas
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,github,vscode,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,github,vscode,idea&theme=dark" />
   </a>
 </div>
 
