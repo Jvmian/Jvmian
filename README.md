@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor (Jvmian)! 👋🤖
 
-Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**, gosto de conectar código com o mundo físico!
+Sou apaixonado por **Eletrônica e Desenvolvimento de Software**, gosto de conectar código com o mundo físico!
 
 ---
 
