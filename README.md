@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor (Jvmian)! 👋🤖
 
-Sou apaixonado por **Eletrônica e Desenvolvimento de Software**, gosto de conectar código com o mundo físico!
+Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**, gosto de conectar código com o mundo físico!
 
 ---
 
@@ -19,9 +19,9 @@ Sou Técnico em Desenvolvimento de Sistemas e Assistente Técnico de Eletrônica
 ---
 
 ### 📊 Minhas Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=dark" alt="GitHub Top Languages"/>
+<div align="center" style="background-color:#121212; padding: 10px; border-radius: 8px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmian&layout=compact&theme=tokyonight" alt="GitHub Top Languages"/>
 </div>
 
 ---
