@@ -19,6 +19,8 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
   "linguagens": ["C++", "Python", "Ladder"],
   "hobbies": ["Robótica", "Impressão 3D", "Café"]
 }
+
+
 ### 📊 Minhas Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jvmian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,5 +29,5 @@ Sou apaixonado por **Mecatrônica e Desenvolvimento de Software**. Gosto de cone
 
 ### 🐍 Contribuições (Snake Game)
 <div align="center">
-  <img src="https://github.com/Jvmian/Jvmian/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Jvmian/Jvmian/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
