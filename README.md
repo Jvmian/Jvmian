@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm 
   <a href="https://github.com/Jvmian">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Jo%C3%A3o+Victor+%28Jvmian%29;Mechatronics+Engineering+Student;USP+-+EESC;Software+%26+Electronics+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Jo%C3%A3o+Victor+%28Jvmian%29" alt="Typing SVG" />
   </a>
 </h1>
 
